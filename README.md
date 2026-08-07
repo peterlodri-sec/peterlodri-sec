@@ -25,7 +25,7 @@ Support open-access quantitative finance, free-threaded nogil Python 3.13 JIT co
 -  [art.vaked.dev](https://art.vaked.dev) — the visual mesh
 -  [pocoo support](https://pocoo.vaked.dev/support/) — the lovetta lane, fund the loop
 -  [water-fall-disc](https://peterl.dev/pocoo.vaked.dev/water/) — pure procedural percussion, magyar DJ hangvezérléssel
--  [quantal model](https://pocoo.vaked.dev/demos/quantal/index.json) — trained BitNet b1.58, 168 ternary matrices
+-  [quantal model](https://pocoo.vaked.dev/demos/quantal/index.json) — trained BitNet b1.58, 168 ternary matrices · [hf: the cogito](https://huggingface.co/PeetPedro/quantal-ternary)
 
 ---
 
