@@ -1,6 +1,6 @@
 # Peter Lodri (`@peterlodri-sec`)
 
-> **Systems Builder · Quantitative Mathematician · Sovereign Agentic Architect**
+> > **Systems Builder · Quantitative Mathematician · Sovereign Agentic Architect**
 > 
 > *Mission: Open, measurable, self-improving AI systems — where autonomous agents loop, compress, and route without losing provenance or going dark.*
 
@@ -74,3 +74,4 @@ Support open-access quantitative finance, free-threaded nogil Python 3.13 JIT co
 
 ---
 *🜂 Sealed with Vaked Genesis Integrity Seal · Dedicated with Love to All ($\Delta$)*
+
