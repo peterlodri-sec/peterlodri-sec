@@ -23,6 +23,7 @@ Support open-access quantitative finance, free-threaded nogil Python 3.13 JIT co
 -  [mlxquantlovefrom.com](https://mlxquantlovefrom.com) — GALAKTIKA MAGAZIN, ternary love landing
 -  [proposal.vaked.dev](https://proposal.vaked.dev) — the proposal + [logladder](https://proposal.vaked.dev/logladder.json) (append-only decision ladder)
 -  [art.vaked.dev](https://art.vaked.dev) — the visual mesh
+-  [pocoo support](https://pocoo.vaked.dev/support/) — the lovetta lane, fund the loop
 -  [water-fall-disc](https://peterl.dev/pocoo.vaked.dev/water/) — pure procedural percussion, magyar DJ hangvezérléssel
 -  [quantal model](https://pocoo.vaked.dev/demos/quantal/index.json) — trained BitNet b1.58, 168 ternary matrices
 
