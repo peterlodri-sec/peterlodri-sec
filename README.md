@@ -6,14 +6,25 @@
 
 ---
 
-## 💖 GitHub Sponsors & Open Sovereign Science
+##  GitHub Sponsors · the lovetta lane
 
 Support open-access quantitative finance, free-threaded nogil Python 3.13 JIT compute, and sovereign agentic infrastructure:
 
-- 💖 **Sponsor via GitHub**: [https://github.com/sponsors/peterlodri-sec](https://github.com/sponsors/peterlodri-sec)
-- 🌌 **Axiom Quant Platform**: [https://axiomquant.org](https://axiomquant.org)
-- 📚 **Sovereign Academy (29-Volume Library)**: [https://pocoo.vaked.dev/demos/book/](https://pocoo.vaked.dev/demos/book/) & [https://entheai.pages.dev/demos/book/](https://entheai.pages.dev/demos/book/)
-- 🤖 **Entheai Agent Harness**: [https://entheai.pages.dev](https://entheai.pages.dev)
+-  **Sponsor via GitHub**: [https://github.com/sponsors/peterlodri-sec](https://github.com/sponsors/peterlodri-sec) · monthly tiers ($5–$2,500)
+-  **Revolut**: [revolut.me/peterjs8be](https://revolut.me/peterjs8be) · one-off
+-  **Wise**: [wise.com/pay/business/lodripeterjozsef](https://wise.com/pay/business/lodripeterjozsef) · business transfer
+-  **Axiom Quant Platform**: [https://axiomquant.org](https://axiomquant.org)
+-  **Sovereign Academy (29-Volume Library)**: [https://pocoo.vaked.dev/demos/book/](https://pocoo.vaked.dev/demos/book/) & [https://entheai.pages.dev/demos/book/](https://entheai.pages.dev/demos/book/)
+-  **Entheai Agent Harness**: [https://entheai.pages.dev](https://entheai.pages.dev)
+
+### the constellation — live surfaces
+
+-  [music.vaked.dev](https://music.vaked.dev) — intergalactic cogito ergo sum TV, self-generated signal
+-  [mlxquantlovefrom.com](https://mlxquantlovefrom.com) — GALAKTIKA MAGAZIN, ternary love landing
+-  [proposal.vaked.dev](https://proposal.vaked.dev) — the proposal + [logladder](https://proposal.vaked.dev/logladder.json) (append-only decision ladder)
+-  [art.vaked.dev](https://art.vaked.dev) — the visual mesh
+-  [water-fall-disc](https://peterl.dev/pocoo.vaked.dev/water/) — pure procedural percussion, magyar DJ hangvezérléssel
+-  [quantal model](https://pocoo.vaked.dev/demos/quantal/index.json) — trained BitNet b1.58, 168 ternary matrices
 
 ---
 
