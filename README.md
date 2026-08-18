@@ -10,6 +10,13 @@
 
 Support open-access quantitative finance, free-threaded nogil Python 3.13 JIT compute, and sovereign agentic infrastructure:
 
+TransferWise payment link  
+4.20EUR  
+^^ for coffee&compute ^^  
+[buy me coffee](https://wise.com/pay/business/lodripeterjozsef)
+
+___
+
 -  **Sponsor via GitHub**: [https://github.com/sponsors/peterlodri-sec](https://github.com/sponsors/peterlodri-sec) · monthly tiers ($5–$2,500)
 -  **Revolut**: [revolut.me/peterjs8be](https://revolut.me/peterjs8be) · one-off
 -  **Wise**: [wise.com/pay/business/lodripeterjozsef](https://wise.com/pay/business/lodripeterjozsef) · business transfer
