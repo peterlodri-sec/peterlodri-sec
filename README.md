@@ -10,10 +10,9 @@
 
 Support open-access quantitative finance, free-threaded nogil Python 3.13 JIT compute, and sovereign agentic infrastructure:
 
-TransferWise payment link  
-4.20EUR  
-^^ for coffee&compute ^^  
-[buy me coffee](https://wise.com/pay/business/lodripeterjozsef)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J2T825CQBE)
+
+TransferWise [buy me coffee](https://wise.com/pay/business/lodripeterjozsef)
 
 ___
 
