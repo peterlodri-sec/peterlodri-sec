@@ -4,6 +4,21 @@
 > 
 > *Mission: Open, measurable, self-improving AI systems — where autonomous agents loop, compress, and route without losing provenance or going dark.*
 
+<p align="left">
+  <a href="https://www.codewars.com/users/peterlodri-sec" title="Codewars — peterlodri-sec (large)">
+    <img src="https://www.codewars.com/users/peterlodri-sec/badges/large" alt="Codewars Dark Badge (large) — peterlodri-sec" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.codewars.com/users/peterlodri-sec" title="Codewars — peterlodri-sec (small)">
+    <img src="https://www.codewars.com/users/peterlodri-sec/badges/small" alt="Codewars Dark Badge (small) — peterlodri-sec" />
+  </a>
+  &nbsp;
+  <a href="https://www.codewars.com/users/peterlodri-sec" title="Codewars — peterlodri-sec (micro)">
+    <img src="https://www.codewars.com/users/peterlodri-sec/badges/micro" alt="Codewars Dark Badge (micro) — peterlodri-sec" />
+  </a>
+</p>
+
 ---
 
 ##  GitHub Sponsors · the lovetta lane
@@ -74,6 +89,7 @@ ___
 ## 🌐 Community & Open Access
 
 * 🐙 **GitHub**: [github.com/peterlodri-sec](https://github.com/peterlodri-sec) & [github.com/8b-is](https://github.com/8b-is)
+* ⚔️ **Codewars**: [codewars.com/users/peterlodri-sec](https://www.codewars.com/users/peterlodri-sec) · ![Codewars Micro](https://www.codewars.com/users/peterlodri-sec/badges/micro)
 * 🌐 **Sovereign Portal**: [peterl.dev](https://peterl.dev)
 * 📖 **Research Blog**: [pocoo.vaked.dev](https://pocoo.vaked.dev)
 * 🤗 **Hugging Face**: [huggingface.co/PeetPedro](https://huggingface.co/PeetPedro)
