@@ -6,16 +6,16 @@
 
 <p align="left">
   <a href="https://www.codewars.com/users/peterlodri-sec" title="Codewars — peterlodri-sec (large)">
-    <img src="https://www.codewars.com/users/peterlodri-sec/badges/large" alt="Codewars Dark Badge (large) — peterlodri-sec" />
+    <img src="./badges/codewars-large.svg" alt="Codewars Dark Badge (large) — peterlodri-sec" height="40" />
   </a>
 </p>
 <p align="left">
   <a href="https://www.codewars.com/users/peterlodri-sec" title="Codewars — peterlodri-sec (small)">
-    <img src="https://www.codewars.com/users/peterlodri-sec/badges/small" alt="Codewars Dark Badge (small) — peterlodri-sec" />
+    <img src="./badges/codewars-small.svg" alt="Codewars Dark Badge (small) — peterlodri-sec" height="24" />
   </a>
   &nbsp;
   <a href="https://www.codewars.com/users/peterlodri-sec" title="Codewars — peterlodri-sec (micro)">
-    <img src="https://www.codewars.com/users/peterlodri-sec/badges/micro" alt="Codewars Dark Badge (micro) — peterlodri-sec" />
+    <img src="./badges/codewars-micro.svg" alt="Codewars Dark Badge (micro) — peterlodri-sec" height="20" />
   </a>
 </p>
 
@@ -45,7 +45,8 @@ ___
 -  [proposal.vaked.dev](https://proposal.vaked.dev) — the proposal + [logladder](https://proposal.vaked.dev/logladder.json) (append-only decision ladder)
 -  [art.vaked.dev](https://art.vaked.dev) — the visual mesh
 -  [pocoo support](https://pocoo.vaked.dev/support/) — the lovetta lane, fund the loop
--  [water-fall-disc](https://peterl.dev/pocoo.vaked.dev/water/) — pure procedural percussion, magyar DJ hangvezérléssel
+-  [water-fall-disc](https://pocoo.vaked.dev/water/) — pure procedural percussion, magyar DJ hangvezérléssel
+-  [auroralib](https://github.com/8b-is/auroralib) — Wikipedia + Sovereign Library, home for ontology (Alicia Juarrero) & OSS research (Flyxion *The Publication Projection*, Mechachleopteryx ternary reducer, *FAMILY +1*)
 -  [quantal model](https://pocoo.vaked.dev/demos/quantal/index.json) — trained BitNet b1.58, 168 ternary matrices · [hf: the cogito](https://huggingface.co/PeetPedro/quantal-ternary)
 
 ---
@@ -89,7 +90,7 @@ ___
 ## 🌐 Community & Open Access
 
 * 🐙 **GitHub**: [github.com/peterlodri-sec](https://github.com/peterlodri-sec) & [github.com/8b-is](https://github.com/8b-is)
-* ⚔️ **Codewars**: [codewars.com/users/peterlodri-sec](https://www.codewars.com/users/peterlodri-sec) · ![Codewars Micro](https://www.codewars.com/users/peterlodri-sec/badges/micro)
+* ⚔️ **Codewars**: [codewars.com/users/peterlodri-sec](https://www.codewars.com/users/peterlodri-sec) · ![Codewars Micro](./badges/codewars-micro.svg)
 * 🌐 **Sovereign Portal**: [peterl.dev](https://peterl.dev)
 * 📖 **Research Blog**: [pocoo.vaked.dev](https://pocoo.vaked.dev)
 * 🤗 **Hugging Face**: [huggingface.co/PeetPedro](https://huggingface.co/PeetPedro)
